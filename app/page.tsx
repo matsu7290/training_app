@@ -74,7 +74,7 @@ export default function Home() {
         <div className="animate-in fade-in zoom-in duration-700 ease-out flex flex-col items-center">
           <span className="text-7xl mb-6 animate-bounce">💪</span>
           <h1 className="text-4xl font-black italic tracking-tighter bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">
-            筋トレapp
+            筋トレアプリ
           </h1>
           <div className="mt-8 w-48 h-1 bg-slate-800 rounded-full overflow-hidden">
             <div className="h-full bg-blue-500 animate-[progress_1.5s_ease-in-out_infinite]" style={{ width: '40%' }}></div>
@@ -89,7 +89,7 @@ export default function Home() {
     <div className="p-6 max-w-xl mx-auto mb-24 min-h-screen animate-in fade-in duration-1000">
       <header className="sticky top-4 z-20 backdrop-blur-lg bg-white/60 dark:bg-gray-900/60 p-4 rounded-2xl shadow-sm border border-white/40 dark:border-gray-700/40 flex justify-between items-center mb-8 animate-in slide-in-from-top-4 duration-700">
         <h1 className="text-xl font-black italic tracking-tighter bg-gradient-to-r from-blue-600 to-indigo-500 bg-clip-text text-transparent italic">
-          筋トレapp
+          筋トレアプリ
         </h1>
         <AuthButton />
       </header>
