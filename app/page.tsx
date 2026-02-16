@@ -74,7 +74,7 @@ export default function Home() {
         <div className="animate-in fade-in zoom-in duration-700 ease-out flex flex-col items-center">
           <span className="text-7xl mb-6 animate-bounce">💪</span>
           <h1 className="text-4xl font-black italic tracking-tighter bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">
-            MUSCLE CIRCLE
+            筋トレapp
           </h1>
           <div className="mt-8 w-48 h-1 bg-slate-800 rounded-full overflow-hidden">
             <div className="h-full bg-blue-500 animate-[progress_1.5s_ease-in-out_infinite]" style={{ width: '40%' }}></div>
